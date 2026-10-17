@@ -24,7 +24,7 @@ Our objectives:
 
 | Skill | Description | Status |
 |---|---|---|
-| [master-schedule-drawio-skill](https://github.com/syntax211/master-schedule-drawio-skill) | Construction master scheduling and Draw.io diagram generation | Initial repository |
+| [master-schedule-drawio](./skills/master-schedule-drawio/) | Construction master scheduling and Draw.io diagram generation | Initial repository |
 | site-photo-report-skill | Construction site photo reporting with Excel/PDF export | Planned |
 | daily-site-report-skill | Automated daily construction reporting | Planned |
 | project-progress-report-skill | Weekly and monthly progress monitoring | Planned |
