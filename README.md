@@ -104,6 +104,30 @@ You can contribute through bug reports, feature requests, documentation improvem
 
 Please respect third-party licenses and avoid submitting confidential project information.
 
+## 🌍 Community & Ecosystem
+
+**HaiNA Skills is part of the BuildGreen digital construction ecosystem.**
+
+We aim to build an open community where construction professionals, engineers, project managers, and AI developers can discover, learn, share, and contribute practical AI-powered solutions for the construction industry.
+
+### BuildGreen — Digital Construction Ecosystem
+
+🌐 Website: **https://buildgreen.vn**
+
+🐙 GitHub: **https://github.com/syntax211/HaiNA-Skills**
+
+Through BuildGreen, we aim to:
+
+- Share tutorials and real-world use cases for AI Agent Skills.
+- Promote AI adoption in construction project management.
+- Connect construction professionals and AI developers.
+- Encourage open-source collaboration and knowledge sharing.
+- Build a community-driven library of construction automation workflows.
+
+**Our vision: Open-source AI skills, shared knowledge, and smarter construction projects.**
+
+*Community resources and integration with BuildGreen.vn will be developed progressively.*
+
 ## 📄 License
 
 This project is intended to be distributed under the **MIT License**.
@@ -116,12 +140,16 @@ See [LICENSE](LICENSE) for the full terms once the license file has been added.
 
 ## 👤 Author & Maintainer
 
-**HaiNA**
+**HaiNA — Construction AI & Automation**
 
-GitHub: https://github.com/syntax211
+- **Author:** Nguyen Anh Hai (HaiNA)
+- **Community Website:** https://buildgreen.vn
+- **GitHub:** https://github.com/syntax211
+- **Project Repository:** https://github.com/syntax211/HaiNA-Skills
 
-Project: https://github.com/syntax211/haina-skills
+Copyright © 2026 Nguyen Anh Hai (HaiNA).
 
+Licensed under the MIT License.
 ---
 
 **HaiNA Skills — Building smarter construction workflows with open-source AI.**
